@@ -1,5 +1,4 @@
-# 💫 About Me:
-💻  Build full-stack apps using MongoDB, Express, React, Node.js<br>Create modern UIs with animations (Anime.js, Framer Motion, GSAP vibes)<br>Design developer portfolios & startup websites.<br>Work on real-world projects like chat apps, dashboards, and SaaS platforms<br>Learning Next.js, cloud basics, and advanced backend patterns
+<h1 align="center">Hi, I'm Priyanshu Raj 👋</h1> <h3 align="center">Full-Stack (MERN) Developer | Building for Fintech & BFSI</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9BFF&center=true&vCenter=true&width=600&lines=BCA+Student+%40+Patliputra+University;MERN+Stack+%2B+Real-Time+Systems;Building+Fintech-Focused+Portfolio+Projects;Targeting+Placements+%E2%80%94+April+2027" alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> </p>
 
 
 ## 🌐 Socials:
