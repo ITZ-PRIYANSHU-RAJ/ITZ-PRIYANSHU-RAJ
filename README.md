@@ -7,9 +7,7 @@
 
 Frontend: React · Next.js · TanStack Query · Zustand · Tailwind CSS · Framer Motion Backend: Node.js · Express · Socket.io · JWT Auth · REST APIs Data & Infra: MongoDB · PostgreSQL · Redis · Docker AI/ML: Gemini API · Pinecone · RAG pipelines · Python (scikit-learn, pandas) Currently Learning: Kubernetes · System Design · DSA in C++
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ITZ-PRIYANSHU-RAJ&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ITZ-PRIYANSHU-RAJ&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-PRIYANSHU-RAJ&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ITZ-PRIYANSHU-RAJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-PRIYANSHU-RAJ&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITZ-PRIYANSHU-RAJ&theme=tokyonight&hide_border=true" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ITZ-PRIYANSHU-RAJ&theme=dark&no-frame=false&no-bg=false&margin-w=4)
