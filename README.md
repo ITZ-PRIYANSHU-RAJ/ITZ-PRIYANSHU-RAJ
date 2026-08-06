@@ -19,11 +19,7 @@ Frontend: React · Next.js · TanStack Query · Zustand · Tailwind CSS · Frame
 # 📊 GitHub Stats:
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ITZ-PRIYANSHU-RAJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-PRIYANSHU-RAJ&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITZ-PRIYANSHU-RAJ&theme=tokyonight&hide_border=true" /> </p>
 
-Let's Connect
 
-I'm actively building toward fintech engineering roles — always happy to talk trading systems, real-time architecture, or MERN best practices.
-
-<a href="https://www.linkedin.com/in/rajpriyanshugpt/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rajpriyanshugpt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://priyanshugpt.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-2E9BFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ITZ-PRIYANSHU-RAJ&theme=dark&no-frame=false&no-bg=false&margin-w=4)
