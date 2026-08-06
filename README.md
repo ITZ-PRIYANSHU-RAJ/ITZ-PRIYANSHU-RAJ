@@ -1,8 +1,6 @@
-<div align="center"> <img src="./assets/banner.svg" width="100%" alt="Priyanshu Raj — Full-Stack Developer, Fintech & BFSI"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/rajpriyanshugpt/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rajpriyanshugpt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://priyanshugpt.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-2E9BFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/ITZ-PRIYANSHU-RAJ"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <br/> <img src="https://komarev.com/ghpvc/?username=ITZ-PRIYANSHU-RAJ&label=Profile+Views&color=2E9BFF&style=flat-square" alt="profile views"/> </div> <br/>
+<div align="center">
+Priyanshu Raj
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9BFF&center=true&vCenter=true&width=800&lines=Full-Stack+(MERN)+Developer+%7C+Fintech+%26+BFSI;BCA+Student+%40+Patliputra+University;MERN+Stack+%2B+Real-Time+Systems;Building+Fintech-Focused+Portfolio+Projects;Targeting+Placements+%E2%80%94+April+2027" alt="Typing SVG"/> <br/> <a href="https://www.linkedin.com/in/rajpriyanshugpt/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rajpriyanshugpt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://priyanshugpt.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-2E9BFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/ITZ-PRIYANSHU-RAJ"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <br/> <img src="https://komarev.com/ghpvc/?username=ITZ-PRIYANSHU-RAJ&label=Profile+Views&color=2E9BFF&style=flat-square" alt="profile views"/> </div> <br/>
 
 <br/><br/>
 
