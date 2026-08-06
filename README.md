@@ -1,8 +1,6 @@
-<div align="center">
-Priyanshu Raj
-Full-Stack (MERN) Developer building for Fintech & BFSI
+<div align="center"> <img src="./assets/banner.svg" width="100%" alt="Priyanshu Raj — Full-Stack Developer, Fintech & BFSI"/>
 
-BCA @ Patliputra University · Real-Time Systems · Targeting Placements — April 2027
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/rajpriyanshugpt/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rajpriyanshugpt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://priyanshugpt.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-2E9BFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/ITZ-PRIYANSHU-RAJ"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <br/> <img src="https://komarev.com/ghpvc/?username=ITZ-PRIYANSHU-RAJ&label=Profile+Views&color=2E9BFF&style=flat-square" alt="profile views"/> </div> <br/>
 
