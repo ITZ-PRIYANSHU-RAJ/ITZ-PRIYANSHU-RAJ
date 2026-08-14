@@ -1,23 +1,92 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=36&pause=1000&color=2E9BFF&center=true&vCenter=true&width=600&height=60&lines=Priyanshu+Raj" alt="Priyanshu Raj"/> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=5BC8FF&center=true&vCenter=true&width=800&lines=Full-Stack+(MERN)+Developer+%7C+Fintech+%26+BFSI;BCA+Student+%40+Patliputra+University;MERN+Stack+%2B+Real-Time+Systems;Building+Fintech-Focused+Portfolio+Projects;Targeting+Placements+%E2%80%94+April+2027" alt="Typing SVG"/> <br/> <a href="https://www.linkedin.com/in/rajpriyanshugpt/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rajpriyanshugpt@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://priyanshugpt.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-2E9BFF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/ITZ-PRIYANSHU-RAJ"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <br/> <img src="https://komarev.com/ghpvc/?username=ITZ-PRIYANSHU-RAJ&label=Profile+Views&color=2E9BFF&style=flat-square" alt="profile views"/> </div> <br/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9C0&center=true&vCenter=true&width=600&lines=Hey+There%2C+I'm+Priyanshu+Raj;Full-Stack+Engineer+%7C+Fintech+Focus;MERN+%2B+Next.js+%2B+TypeScript;Building+for+BFSI+%26+Fintech+Products" alt="Typing SVG" />
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu_gupta722) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-raj-a2982b204/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/3tJZgQrpL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshue722@gmail.com) 
-
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redis,postgres,docker,git,figma,py&theme=dark" /> </p>
-
-Frontend: React · Next.js · TanStack Query · Zustand · Tailwind CSS · Framer Motion Backend: Node.js · Express · Socket.io · JWT Auth · REST APIs Data & Infra: MongoDB · PostgreSQL · Redis · Docker AI/ML: Gemini API · Pinecone · RAG pipelines · Python (scikit-learn, pandas) Currently Learning: Kubernetes · System Design · DSA in C++
-# 📊 GitHub Stats:
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ITZ-PRIYANSHU-RAJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-PRIYANSHU-RAJ&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITZ-PRIYANSHU-RAJ&theme=tokyonight&hide_border=true" /> </p>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ITZ-PRIYANSHU-RAJ&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Welcome%20to%20my%20GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00D9C0" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ITZ-PRIYANSHU-RAJ&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧭 About Me
+
+- 🏦 Full-Stack Engineer with a **fintech/BFSI** domain focus
+- 🧑‍💻 Currently building **MeetOnMemory** — a RAG-based institutional knowledge platform (MERN + Gemini API + Pinecone)
+- 📈 Also shipping a **real-time stock market dashboard** (Next.js, Socket.io, Redis, TradingView Charts, Finnhub WebSocket API)
+- 🎓 2nd-year BCA student @ Patliputra University, Patna, Bihar
+- 🎯 Targeting SDE / Full-Stack roles at **Razorpay, CRED, Zerodha, Groww**
+- 🌱 Sharpening DSA (C++) alongside project-building
+- 💡 Curious about startups — always reading (*The Mom Test*, *Zero to One*, *Lean Startup*)
+- 📫 Reach me: **rajpriyanshugpt@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redis,cpp,tailwind,git,figma" />
+</p>
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion, GSAP
+**Backend:** Node.js, Express.js, JWT Auth, REST APIs
+**Database/Infra:** MongoDB, Redis, Pinecone (Vector DB), Cloudinary
+**Realtime/Data:** Socket.io, WebSocket APIs (Finnhub), TradingView Lightweight Charts
+**AI/RAG:** Gemini API, RAG pipelines, ChromaDB, FastAPI
+**Languages:** C++, JavaScript, TypeScript, Python
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **MeetOnMemory** | MERN, Gemini API, Pinecone | RAG-based institutional knowledge platform, JWT auth, layered routes/controllers/services |
+| **Real-Time Stock Dashboard** | Next.js, Socket.io, Redis, Finnhub | Live market data, TradingView charts, WebSocket streaming |
+| **Medimind AI** | AI Agent | Clinical decision support system (hackathon build) |
+| **Doc Summarizer + Q&A** | FastAPI, ChromaDB, RAG | Contextual document Q&A pipeline |
+| **Traffic Optimization System** | Next.js, Socket.io, Redis, OSM | Dijkstra/A* pathfinding, real-time routing |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ITZ-PRIYANSHU-RAJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9C0&icon_color=00D9C0&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-PRIYANSHU-RAJ&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITZ-PRIYANSHU-RAJ&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9C0&fire=00D9C0" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ITZ-PRIYANSHU-RAJ&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9C0&line=00D9C0&point=ffffff" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ITZ-PRIYANSHU-RAJ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajpriyanshugpt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/PRIYANSHU_722" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:rajpriyanshugpt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ITZ-PRIYANSHU-RAJ&color=00D9C0&style=for-the-badge&label=Profile+Views" />
+</p>
