@@ -14,9 +14,8 @@
 - 🧑‍💻 Currently building **MeetOnMemory** — a RAG-based institutional knowledge platform (MERN + Gemini API + Pinecone)
 - 📈 Also shipping a **real-time stock market dashboard** (Next.js, Socket.io, Redis, TradingView Charts, Finnhub WebSocket API)
 - 🎓 2nd-year BCA student @ Patliputra University, Patna, Bihar
-- 🎯 Targeting SDE / Full-Stack roles at **Razorpay, CRED, Zerodha, Groww**
 - 🌱 Sharpening DSA (C++) alongside project-building
-- 💡 Curious about startups — always reading (*The Mom Test*, *Zero to One*, *Lean Startup*)
+- 💡 Curious about startups
 - 📫 Reach me: **rajpriyanshugpt@gmail.com**
 
 ---
